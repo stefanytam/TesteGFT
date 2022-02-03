@@ -78,6 +78,8 @@ public class TesteGFT {
         System.out.println("Média = " + media);
         System.out.println("Maior valor = " + maior);
         System.out.println("Menor valor = " + menor);
-
+        
+        //3
+        
     }
 }
